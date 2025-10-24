@@ -10,5 +10,8 @@
 4. unreal animation matching видео 
 	1. https://www.youtube.com/shorts/NMmML70rb5Q
 	2. https://youtu.be/Q-69x0v9Wvo?si=jTGF5ujGqFKdEVvh&t=196
-	3. 
-5. Character interaction
+	3. animation sample проект
+5. Character interaction - проект
+6. Дискретные анимационные модели
+	1. Проект 
+7. ALS - 
