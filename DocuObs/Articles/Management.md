@@ -12,6 +12,9 @@
 	2. https://youtu.be/Q-69x0v9Wvo?si=jTGF5ujGqFKdEVvh&t=196
 	3. animation sample проект
 5. Character interaction - проект
-6. Дискретные анимационные модели
+6. 7. ALS - 
+	1. Готовый
+	2. Классный
+	3. Паркур
+7. Дискретные анимационные модели
 	1. Проект 
-7. ALS - 
