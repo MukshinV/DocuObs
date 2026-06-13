@@ -8,7 +8,13 @@
 - Здесь можно посмотреть, что ждет игрока впереди
 
 ## Состав окна
-### Achivements
+* Achievements
+* Hot Job
+* Daily
+* Storyline
+* Battle pass
+* Questline
+### Achievements
 ![[Pasted image 20260422110850.png|900]]
 ![[Pasted image 20260422132252.png|901]]
 ![[Pasted image 20260422141845.png|900]]
@@ -44,7 +50,7 @@
 7. Машины из будущих уровней можно получить сейчас за 5-10 GC
 8. Уровни можно покупать на этом же окне
 
-### Battlepass
+### Battle pass
 ![[Pasted image 20260422111120.png|899]]
 #### Задачи
 Механика окна не понятна
