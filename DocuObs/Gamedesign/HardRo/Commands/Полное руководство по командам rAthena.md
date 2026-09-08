@@ -95,18 +95,18 @@ text
 
 **Доступные шрифты:**
 
-|ID|Название|
-|---|---|
-|0|Default (стандартный)|
-|1|RixLoveangel|
-|2|RixSquirrel|
-|3|NHCgogo|
-|4|RixDiary|
-|5|RixMiniHeart|
-|6|RixFreshman|
-|7|RixKid|
-|8|RixMagic|
-|9|RixJJangu|
+| ID  | Название              |
+| --- | --------------------- |
+| 0   | Default (стандартный) |
+| 1   | RixLoveangel          |
+| 2   | RixSquirrel           |
+| 3   | NHCgogo               |
+| 4   | RixDiary              |
+| 5   | RixMiniHeart          |
+| 6   | RixFreshman           |
+| 7   | RixKid                |
+| 8   | RixMagic              |
+| 9   | RixJJangu             |
 
 ---
 
@@ -730,24 +730,24 @@ text
 
 ### 🔄 Перезагрузка
 
-|Команда|Что перезагружает|
-|---|---|
-|`@reload`|Общая перезагрузка|
-|`@reloadatcommand`|Настройки команд (`atcommands.yml`, `groups.conf`)|
-|`@reloadbattleconf`|Боевые настройки|
-|`@reloadinstancedb`|База данных инстансов (`instance_db.yml`)|
-|`@reloaditemdb`|База предметов (`item_db.yml`, `item_group_db.yml`, `item_noequip.txt`, `item_combos.yml`)|
-|`@reloadmobdb`|База монстров (`mob_db.yml`, `mob_item_ratio.yml`, `pet_db.yml`)|
-|`@reloadmotd`|MOTD (`motd.txt`)|
-|`@reloadmsgconf`|Настройки сообщений (`atcommands.yml`)|
-|`@reloadpcdb`|Настройки игроков (`statpoint.yml`, `job_exp.yml`, `skill_tree.yml`)|
-|`@reloadquestdb`|База квестов (`quest_db.yml`)|
-|`@reloadscript`|Скрипты NPC и Barter|
-|`@reloadskilldb`|База навыков (`skill_db.yml`, `skill_nocast_db.txt`)|
-|`@reloadstatusdb`|Статусы (`attr_fix.yml`, `size_fix.yml`, `refine.yml`)|
-|`@reloadachievementdb`|Достижения (`achievement_db.yml`)|
-|`@reloadattendancedb`|Посещаемость (`attendance.yml`)|
-|`@reloadbarterdb`|Обмен (`/npc/barters.yml`)|
+| Команда                | Что перезагружает                                                                          |
+| ---------------------- | ------------------------------------------------------------------------------------------ |
+| `@reload`              | Общая перезагрузка                                                                         |
+| `@reloadatcommand`     | Настройки команд (`atcommands.yml`, `groups.conf`)                                         |
+| `@reloadbattleconf`    | Боевые настройки                                                                           |
+| `@reloadinstancedb`    | База данных инстансов (`instance_db.yml`)                                                  |
+| `@reloaditemdb`        | База предметов (`item_db.yml`, `item_group_db.yml`, `item_noequip.txt`, `item_combos.yml`) |
+| `@reloadmobdb`         | База монстров (`mob_db.yml`, `mob_item_ratio.yml`, `pet_db.yml`)                           |
+| `@reloadmotd`          | MOTD (`motd.txt`)                                                                          |
+| `@reloadmsgconf`       | Настройки сообщений (`atcommands.yml`)                                                     |
+| `@reloadpcdb`          | Настройки игроков (`statpoint.yml`, `job_exp.yml`, `skill_tree.yml`)                       |
+| `@reloadquestdb`       | База квестов (`quest_db.yml`)                                                              |
+| `@reloadscript`        | Скрипты NPC и Barter                                                                       |
+| `@reloadskilldb`       | База навыков (`skill_db.yml`, `skill_nocast_db.txt`)                                       |
+| `@reloadstatusdb`      | Статусы (`attr_fix.yml`, `size_fix.yml`, `refine.yml`)                                     |
+| `@reloadachievementdb` | Достижения (`achievement_db.yml`)                                                          |
+| `@reloadattendancedb`  | Посещаемость (`attendance.yml`)                                                            |
+| `@reloadbarterdb`      | Обмен (`/npc/barters.yml`)                                                                 |
 
 ---
 

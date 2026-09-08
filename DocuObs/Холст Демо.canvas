@@ -1,0 +1,11 @@
+{
+	"nodes":[
+		{"id":"d325ea786dd989c9","x":-279,"y":-100,"width":250,"height":60,"type":"text","text":"Линки"},
+		{"id":"8382ff580aae1ad4","x":20,"y":-100,"width":250,"height":60,"type":"text","text":"Этот"},
+		{"id":"2997b435c1382081","x":-120,"y":-400,"width":250,"height":60,"type":"text","text":"Холст."}
+	],
+	"edges":[
+		{"id":"77e393544ab26a68","fromNode":"2997b435c1382081","fromSide":"bottom","toNode":"d325ea786dd989c9","toSide":"top","label":"Линия"},
+		{"id":"98fe06ef0bf7f1d4","fromNode":"2997b435c1382081","fromSide":"bottom","toNode":"8382ff580aae1ad4","toSide":"top"}
+	]
+}
